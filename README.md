@@ -4,7 +4,7 @@
 # Tertiary Study on Systems of Systems Architecting
 
 
-## Identification of Research and Primary Studies Selection
+## Identification of Research and Secondary Studies Selection
 
 [Venues search log (Search Strings)](search-strings-log.md)
 
