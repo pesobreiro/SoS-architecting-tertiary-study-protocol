@@ -4,7 +4,7 @@
 # Tertiary Study on Systems of Systems Architecting
 
 
-## Identification of Research and Secondary Studies Selection
+## Appendix C - Identification of Research and Secondary Studies Selection
 
 [Venues search log (Search Strings)](search-strings-log.md)
 
@@ -22,11 +22,11 @@
 
 [Duplicated filtering and filtering consensus](FilteringConsensusAnalysis.xlsx)
 
-## Quality Assessment
+## Appendix D - Quality Assessment
 
 [Duplicated quality assessment and consensus](QA-Comparison-Disagreements.xlsx)
 
-## Qualitative Data Analysis & Data Extraction
+## Appendix E - Qualitative Data Analysis & Data Extraction
 
 [Quotations and codes](quotations.md)
 
