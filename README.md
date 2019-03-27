@@ -24,7 +24,7 @@
 
 [Duplicated quality assessment and consensus](QA-Comparison-Disagreements.xlsx)
 
-## Appendix E - Qualitative Data Analysis & Data Extraction
+## Appendix E - Qualitative Content Analysis, Data Extraction and Synthesis
 
 [Quotations and codes](quotations.md)
 
