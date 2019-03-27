@@ -1,7 +1,5 @@
 
-
-
-# Architecting Systems of Systems: A Tertiary Study
+# Architecting Systems of Systems: A Tertiary Study - Protocol Data
 
 
 ## Appendix C - Identification of Research and Secondary Studies Selection
