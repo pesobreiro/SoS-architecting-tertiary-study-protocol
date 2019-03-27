@@ -1,7 +1,7 @@
 
 
 
-# Tertiary Study on Systems of Systems Architecting
+# Architecting Systems of Systems: A Tertiary Study
 
 
 ## Appendix C - Identification of Research and Secondary Studies Selection
