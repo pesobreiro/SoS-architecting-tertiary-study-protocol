@@ -26,6 +26,8 @@
 
 ## Appendix E - Qualitative Content Analysis, Data Extraction and Synthesis
 
+[Form-based extracted data](Form-based-extracted-data.xlsx)
+
 [Quotations and codes](quotations.md)
 
 [Axial coding - quotations and relations](SoS-Arch-TS-AxialCoding.xlsx)
